@@ -26,3 +26,6 @@ Curently its still very manual and handmade for my personal usage, but you can m
 # Future plans?
 
 Automize it, make it a dialogue, generally use a better API for better classifying.
+
+Example picture of the finished report, the first page:
+![grafik](https://user-images.githubusercontent.com/44898627/150655885-5b157419-977c-453b-a4f8-0c586547ef5a.png)
